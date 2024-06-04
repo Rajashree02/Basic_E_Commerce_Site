@@ -1,0 +1,129 @@
+ *{
+    margin : 0px;
+    padding: 0px;
+    background-color: color-mix(in lch, purple 50%, plum 50%)
+}
+h1{
+    text-align: center;
+    padding: 40px 35% 30px 35%;
+    font-size: 200%;
+    font-family: Georgia, Arial,Helvetica;
+}
+
+.lipstick1{
+    width: 202px;
+    height: 202px;
+    border-radius: 5%;
+}
+.eyeshadow1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+} 
+.kajal1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+.foundation1{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+.pro2{
+    float: right;
+    display: inline;
+    padding: 20px 410px 20px 50px;
+}
+.pro1{
+    display: inline;
+    float: left;
+    padding: 20px 50px 20px 410px;
+}
+.lipstickhead{
+    font-family: Georgia, Arial,Helvetica;
+    padding: 20px 43px 20px;
+}
+.eyeshadowhead{
+    font-family: Georgia, Arial,Helvetica;
+    padding: 20px 25px 20px;
+}
+.kajalhead{
+    font-family: Georgia, Arial,Helvetica;
+    padding: 20px 65px 20px;
+}
+.foundationhead{
+    font-family: Georgia, Arial,Helvetica;
+    padding: 20px 30px 20px;
+}
+.lipstickimg{
+    width:35%;
+    height: auto;
+    float: left;
+    padding-right: 50px;
+    border-radius: 50%;
+    padding-left: 20px;
+}
+.lipstickpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8% 5%;
+    text-align: justify;
+    font-size: 140%;
+}
+.eyeshadowimg{
+    width:35%;
+    height: auto;
+    float: left;
+    padding-right: 50px;
+    border-radius: 50%;
+    padding-left: 20px;
+}
+.eyeshadowpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5% 5%;
+    text-align: justify;
+    font-size: 140%;   
+}
+.kajalimg{
+    width:33%;
+    height: auto;
+    float: left;
+    padding-right: 50px;
+    border-radius: 50%;
+    padding-left: 20px;
+}
+.kajalpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8% 5%;
+    text-align: justify;
+    font-size: 140%;  
+    height: auto;
+}
+.foundationimg{
+    width:37%;
+    height: auto;
+    float: left;
+    padding-right: 50px;
+    border-radius: 50%;
+    padding-left: 20px;
+}
+.foundationpara{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8% 5%;
+    text-align: justify;
+    font-size: 140%;  
+    height: auto;
+}
+.btn{
+    background-color: black;
+    padding: 10px 30px;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: large;
+    position: relative;
+    left: 250px;
+    border-radius: 5px;
+}
+
+
+
